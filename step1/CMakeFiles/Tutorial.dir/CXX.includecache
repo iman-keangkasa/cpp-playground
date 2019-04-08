@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iman/version-control/cpp-playground/step1/tutorial.cxx
+cmath
+-
+sstream
+-
+iostream
+-
+string
+-
+

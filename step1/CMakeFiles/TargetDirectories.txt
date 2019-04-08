@@ -1,0 +1,3 @@
+/home/iman/version-control/cpp-playground/step1/CMakeFiles/edit_cache.dir
+/home/iman/version-control/cpp-playground/step1/CMakeFiles/rebuild_cache.dir
+/home/iman/version-control/cpp-playground/step1/CMakeFiles/Tutorial.dir
