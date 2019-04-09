@@ -3,3 +3,8 @@ https://gitlab.kitware.com/cmake/cmake/blob/master/Tests/Tutorial/
 
 Go to this address for more simple explaination
 https://cmake.org/cmake-tutorial/
+
+Step2
+
+please remember that when defining a config files varibles,
+set the variables before configure_file()
