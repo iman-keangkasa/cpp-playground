@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rais/version-control/cpp-playground/cmake/step2/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/rais/version-control/cpp-playground/cmake/step2/TutorialConfig.h
+MathFunctions.h
+/home/rais/version-control/cpp-playground/cmake/step2/MathFunctions.h
+
+TutorialConfig.h
+

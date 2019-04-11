@@ -1,0 +1,13 @@
+Go to this address for tutorial guidance
+https://gitlab.kitware.com/cmake/cmake/blob/master/Tests/Tutorial/
+
+Go to this address for more simple explaination
+https://cmake.org/cmake-tutorial/
+
+Difference between include_directories and target_include_directories
+is the scope. include_directories involves all including
+add_subdirectories while target_include_directories must specify
+a scope library
+
+include_directories just specify the address
+target include_directories specify the name of library and address
