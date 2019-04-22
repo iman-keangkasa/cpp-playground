@@ -4,6 +4,8 @@
 #include "TutorialConfig.h"
 #ifdef USE_MYMATH
 # include "MathFunctions.h"
+#else
+# include <cmath>
 #endif
 int main (int argc, char *argv[])
 {

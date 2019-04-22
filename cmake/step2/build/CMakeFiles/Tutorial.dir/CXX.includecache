@@ -6,17 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/rais/version-control/cpp-playground/cmake/step2/tutorial.cxx
+../MathFunctions/MathFunctions.h
+
+/home/iman/version-control/cpp-playground/cmake/step2/tutorial.cxx
 stdio.h
 -
 stdlib.h
 -
-math.h
--
 TutorialConfig.h
-/home/rais/version-control/cpp-playground/cmake/step2/TutorialConfig.h
+/home/iman/version-control/cpp-playground/cmake/step2/TutorialConfig.h
 MathFunctions.h
-/home/rais/version-control/cpp-playground/cmake/step2/MathFunctions.h
+/home/iman/version-control/cpp-playground/cmake/step2/MathFunctions.h
+cmath
+-
 
 TutorialConfig.h
 

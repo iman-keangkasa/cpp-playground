@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/rais/version-control/cpp-playground/cmake/step2/build 
+CXX_INCLUDES = -I/home/iman/version-control/cpp-playground/cmake/step2/build -I/home/iman/version-control/cpp-playground/cmake/step2/MathFunctions 
 
