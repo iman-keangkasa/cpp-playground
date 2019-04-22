@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rais/version-control/cpp-playground/cmake/step3/MathFunctions/MathFunctions.h
+
+/home/rais/version-control/cpp-playground/cmake/step3/MathFunctions/mysqrt.cxx
+MathFunctions.h
+/home/rais/version-control/cpp-playground/cmake/step3/MathFunctions/MathFunctions.h
+iostream
+-
+
